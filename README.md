@@ -12,9 +12,9 @@ Python + Django implementation of [todobackend.com](https://www.todobackend.com/
 
 ### Install required modules
 
-`pipenv install`
-`pipenv install django`
-`pipenv install django-cors-headers`
+`pipenv install`<br/>
+`pipenv install django`<br/>
+`pipenv install django-cors-headers`<br/>
 `pipenv shell`
 
 ### Run the application
