@@ -15,8 +15,8 @@ Python + Django implementation of [todobackend.com](https://www.todobackend.com/
 `pipenv install`<br/>
 `pipenv install django`<br/>
 `pipenv install django-cors-headers`<br/>
-`pipenv shell`
+
 
 ### Run the application
-
+`pipenv shell` <br/>
 `python3 manage.py runserver localhost:<port>`
